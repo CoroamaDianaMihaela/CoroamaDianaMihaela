@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @CoroamaDianaMihaela
 - 👀 I’m interested in OOP and Artificial Intelligence
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me coroama.dianamihaela@yahoo.ro
 
 <!---
